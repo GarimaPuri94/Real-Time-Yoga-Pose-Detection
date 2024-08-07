@@ -5,4 +5,5 @@ There are 5 Types of Poses
 3. T Pose
 4. Upward Salute Pose
 5. Hands Under Feet Pose
-which are done by Mediapipe and python Libraies.
+which are done by Mediapipe and Python Libraies.  
+
