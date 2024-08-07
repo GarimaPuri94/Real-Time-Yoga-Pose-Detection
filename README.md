@@ -5,4 +5,4 @@ Tree Pose
 T Pose
 Upward Salute Pose
 Hands Under Feet Pose
-which are done by Mediapipe and Deep learning
+which are done by Mediapipe and python libraies
